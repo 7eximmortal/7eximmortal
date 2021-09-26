@@ -15,4 +15,4 @@ ____
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&show_icons=true&theme=tokyonight&show_owner=fasle)](https://github.com/anuraghazra/github-readme-stats)
