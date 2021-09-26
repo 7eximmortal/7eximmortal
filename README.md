@@ -11,14 +11,6 @@ ____
 - TypeScript
 
 
-<img src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png" alt="lua" width="45"/>
-
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js" width="45"/>
-
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="45"/>
-
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="ts" width="45"/>
-
 ____
 
 
