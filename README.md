@@ -8,15 +8,9 @@
 
 ____
 
-### 
-My range of work ✅
+### My range of work ✅
 
-<img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/>
-<img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img align="top" alt="Node JavaScript" width="26px" src="https://www.mindrops.com/images/nodejs-image.png"/>
-<img align="top" alt="HTML" width="26px" src="https://www.bryan-myers.com/images/1x1/html.png"/>
-<img align="top" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1024px-Devicon-css3-plain.svg.png"/>
-
+<img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img align="top" alt="Node JavaScript" width="26px" src="https://www.mindrops.com/images/nodejs-image.png"/> <img align="top" alt="HTML" width="26px" src="https://www.bryan-myers.com/images/1x1/html.png"/> <img align="top" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1024px-Devicon-css3-plain.svg.png"/>
 
 ____
 
