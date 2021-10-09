@@ -13,7 +13,7 @@ ____
 
 ### My spector of work in programming languages and other programs ✅
 
-<img width="50px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/>
+<img width="50px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> <img width="50px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
 <img width="50px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
 <img width="50px" src="https://www.mindrops.com/images/nodejs-image.png"/>
 <img width="50px" src="https://www.bryan-myers.com/images/1x1/html.png"/> 
