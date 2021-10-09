@@ -1,4 +1,4 @@
-<center># Hello my friend!  <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3"></center>
+p=.# Hello my friend!  <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
 
 ### My favorite programming languages ❤️
 
