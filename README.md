@@ -1,4 +1,7 @@
-p=.# Hello my friend!  <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
+## Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
+## This is the official page - 7eximmortal <img src="images/atom.png" height="20">
+
+____
 
 ### My favorite programming languages ❤️
 
