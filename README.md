@@ -20,5 +20,6 @@ ____
 ### My contacts 📖
 <img align="top" alt="vk" width="26px" src="https://astro-centre.ru/wp-content/uploads/2021/01/photo.png"/> [7eximmortal](https://vk.com/7eximmortal) <img align="top" alt="facebook" width="26px" src="https://img.icons8.com/color/96/000000/facebook-new.png"/> [Vlad Petrenko](https://www.facebook.com/profile.php?id=100073396981776) <img align="top" alt="twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> [7eximmortal](https://twitter.com/7eximmortal) <img align="top" alt="discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-logo.png"/> 7eximmortal#6666
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&hide=contribs,prs&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=Useful-LInks)](https://github.com/anuraghazra/github-readme-stats)
+[![UsefulLinks](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=Useful-LInks)](https://github.com/7eximmortal/Useful-LInks)
+
+![7eximmortal](https://github-readme-stats.vercel.app/api?username=7eximmortal&hide=contribs,prs&show_icons=true&theme=tokyonight)
