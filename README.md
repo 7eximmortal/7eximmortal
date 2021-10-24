@@ -12,7 +12,8 @@
   - <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
   - <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript
   - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> Node.js
-  - 
+  - <img align="top" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
+
 ____
 
 ### My contacts 📖
