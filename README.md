@@ -12,8 +12,8 @@
   - <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
   - <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript
   - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> Node.js
-  - <img align="top" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
-  - <img align="top" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png"/> CSS
+  - <img align="top" alt="HTML" width="26px" src="https://repository-images.githubusercontent.com/231435263/1beb3d80-2d95-11ea-8018-d4ddde52e033"/> HTML
+  - <img align="top" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1200px-Devicon-css3-plain.svg.png"/> CSS
 
 ____
 
