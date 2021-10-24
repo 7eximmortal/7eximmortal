@@ -11,9 +11,12 @@ ____
 
 ____
 
-### My spector of work in programming languages and other programs ✅
+### My spector of work ✅
 
-<img align="middle" width="50px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> <img align="middle" width="50px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img align="middle" width="50px" src="https://www.mindrops.com/images/nodejs-image.png"/> <img align="middle" width="50px" src="https://www.bryan-myers.com/images/1x1/html.png"/> <img align="middle" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/1024px-Devicon-css3-plain.svg.png"/> <img align="middle" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"/> <img align="middle" width="50px" src="https://miro.medium.com/max/1024/0*sMFScKsjbHAfpoU4.png"/> <img align="middle" width="50px" src="https://web-creator.ru/uploads/Page/673/npm.svg"/>
+- Programming languages 📕
+  - <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
+  - <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript
+  - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> Node.js
 
 ____
 
