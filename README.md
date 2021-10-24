@@ -17,7 +17,9 @@
   - <img align="top" alt="MarkDown" width="26px" src="https://miro.medium.com/max/1024/0*sMFScKsjbHAfpoU4.png"/> MarkDown
 - Other utilities 📗
   - <img align="top" alt="Bootstrap" width="26px" src="https://icons.getbootstrap.com/assets/img/favicons/favicon.ico"/> Bootstrap
-  - <img align="top" alt="NPM" width="26" src="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png"/> NPM
+  - <img align="top" alt="NPM" width="26px" src="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png"/> NPM
+  - ![image](https://user-images.githubusercontent.com/52258477/138586530-63c50a1f-7538-418c-a166-dfdd3ef7933c.png)
+
 
 ____
 
