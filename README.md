@@ -1,15 +1,13 @@
 # Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
-## This is the official page - 7eximmortal <img src="https://7eximmortal.github.io/images/atom.png" height="20">
+# This is the official page - 7eximmortal <img src="https://7eximmortal.github.io/images/atom.png" height="20">
 
-### My favorite programming languages ❤️
+## My favorite programming languages ❤️
 
 - <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
 - <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript
 - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> Node.js
 
-____
-
-### My spector of work ✅
+## My spector of work ✅
 
 - Programming languages 📕
   - <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
