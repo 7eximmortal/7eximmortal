@@ -13,7 +13,7 @@
   - <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript
   - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> Node.js
   - <img align="top" alt="HTML" width="26px" src="https://repository-images.githubusercontent.com/231435263/1beb3d80-2d95-11ea-8018-d4ddde52e033"/> HTML
-  - <img align="top" alt="CSS" width="26px" src="https://skilltris.ru/wp-content/uploads/2019/10/logo-2582747_1280.png"/> CSS
+  - <img align="top" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/> CSS
 
 ____
 
