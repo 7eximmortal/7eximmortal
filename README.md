@@ -1,5 +1,4 @@
 # Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
-
 ## My favorite programming languages ❤️
 
 - <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
