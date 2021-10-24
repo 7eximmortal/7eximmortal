@@ -18,8 +18,8 @@
 - Other utilities 📗
   - <img align="top" alt="Bootstrap" width="26px" src="https://icons.getbootstrap.com/assets/img/favicons/favicon.ico"/> Bootstrap
   - <img align="top" alt="NPM" width="26px" src="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png"/> NPM
-  - ![image](https://user-images.githubusercontent.com/52258477/138586530-63c50a1f-7538-418c-a166-dfdd3ef7933c.png)
-
+  - <img align="top" alt="Yarn" width="26px" src="https://user-images.githubusercontent.com/52258477/138586530-63c50a1f-7538-418c-a166-dfdd3ef7933c.png"/> Yarn
+  - <img align="top" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/> Git
 
 ____
 
