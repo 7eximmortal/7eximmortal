@@ -21,8 +21,6 @@
   - <img align="top" alt="Yarn" width="26px" src="https://user-images.githubusercontent.com/52258477/138586530-63c50a1f-7538-418c-a166-dfdd3ef7933c.png"/> Yarn
   - <img align="top" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/> Git
 
-____
-
 ## My contacts 📖
 - <img align="top" alt="vk" width="26px" src="https://astro-centre.ru/wp-content/uploads/2021/01/photo.png"/> [7eximmortal](https://vk.com/7eximmortal) 
 - <img align="top" alt="facebook" width="26px" src="https://img.icons8.com/color/96/000000/facebook-new.png"/> [Vlad Petrenko](https://www.facebook.com/profile.php?id=100073396981776)
