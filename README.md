@@ -5,7 +5,7 @@ ____
 
 ### My favorite programming languages ❤️
 
-- Lua <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/>
+- <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua 
 - JavaScript <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 - Node JavaScript <img align="top" alt="Node JavaScript" width="26px" src="https://www.mindrops.com/images/nodejs-image.png"/>
 
