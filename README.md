@@ -15,6 +15,9 @@
   - <img align="top" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
   - <img align="top" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
   - <img align="top" alt="MarkDown" width="26px" src="https://miro.medium.com/max/1024/0*sMFScKsjbHAfpoU4.png"/> MarkDown
+- Other utilities 📗
+  - <img align="top" alt="Bootstrap" width="26px" src="https://icons.getbootstrap.com/assets/img/favicons/favicon.ico"/> Bootstrap
+  - <img align="top" alt="NPM" width="26px" src="https://static.npmjs.com/1996fcfdf7ca81ea795f67f093d7f449.png"/> NPM
 
 ____
 
