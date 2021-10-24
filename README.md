@@ -2,7 +2,7 @@
 
 ## My favorite programming languages ❤️
 
-- <code><img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> Lua </code>
+- <code><img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/></code>Lua
 - <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JavaScript
 - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> Node.js
 
