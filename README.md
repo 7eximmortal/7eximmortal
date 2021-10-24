@@ -1,5 +1,4 @@
 # Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
-# This is the official page: **7eximmortal** <img align="top" src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/7593a01ba39a4c34fdaaaaece55b79f5.png" height="50px">
 
 ## My favorite programming languages ❤️
 
