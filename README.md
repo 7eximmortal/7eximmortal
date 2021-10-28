@@ -11,7 +11,7 @@
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js&logoColor=white)
 
 ### Contacts 📖
-[![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua&logoColor=white)](https://vk.com/7eximmortal)
+[![VK](https://img.shields.io/badge/-VK-lime?style=flat-square&logo=vk&logoColor=white)](https://vk.com/7eximmortal)
 
 ### Stats 📊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
