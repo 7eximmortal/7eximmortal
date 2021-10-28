@@ -12,7 +12,7 @@
 ![Code HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=white)
 ![Code CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=white)
 ![Code Markdown](https://img.shields.io/badge/Code-Markdown-000000?style=flat-square&logo=markdown&logoColor=000000&labelColor=white)
-![Code editor VS Code](https://img.shields.io/badge/Code_editor-VS Code-007ACC?style=flat-square&logo=visual_studio_code&logoColor=007ACC&labelColor=white)
+![Code editor VS Code](https://img.shields.io/badge/Code_editor-VS_Code-007ACC?style=flat-square&logo=visual_studio_code&logoColor=007ACC&labelColor=white)
 
 ### Contacts 📖
 [![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2&labelColor=white)](https://vk.com/7eximmortal)
