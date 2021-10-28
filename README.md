@@ -11,7 +11,7 @@
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js&logoColor=white)
 
 ### Contacts 📖
-[![VK](https://img.shields.io/badge/-VK-maroon?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/7eximmortal)
+[![VK](https://img.shields.io/badge/VK-7eximmortal-maroon?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/7eximmortal)
 ![Discord](https://img.shields.io/badge/Discord-7eximmortal--8481-maroon?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Stats 📊
