@@ -29,7 +29,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-7eximmortal-1DB954?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=white)](https://open.spotify.com/user/ocbf829cye5e8nr8h8oren0lb)
 [![Twitch](https://img.shields.io/badge/Twitch-7eximmortal-9146FF?style=for-the-badge&logo=twitch&logoColor=9146FF&labelColor=white)](https://www.twitch.tv/7eximmortal)
 ![Xbox Live](https://img.shields.io/badge/Xbox_Live-ex7immortal-107C10?style=for-the-badge&logo=xbox&logoColor=107C10&labelColor=white)
-![Battle.net](https://img.shields.io/badge/Battle.net-ex7immortal--2629-148EFF&style=for-the-badge&logo=battle.net&logoColor=148EFF&labelColor=white)
+![Battle.net](https://img.shields.io/badge/Battle.net-ex7immortal-107C10?style=for-the-badge&logo=xbox&logoColor=107C10&labelColor=white)
 
 ### Stats 📊
 
