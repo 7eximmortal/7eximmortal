@@ -6,9 +6,9 @@
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Spector of work ✅
-![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua&logoColor=white)
-![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
-![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js&logoColor=white)
+![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua&logoColor=white&labelColor=white)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=white)
+![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js&logoColor=white&labelColor=white)
 
 ### Contacts 📖
 [![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2&labelColor=white)](https://vk.com/7eximmortal)
