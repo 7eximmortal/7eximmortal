@@ -24,6 +24,8 @@
 ![Discord](https://img.shields.io/badge/Discord-7eximmortal--8481-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=white)
 [![Facebook](https://img.shields.io/badge/Facebook-Vlad_Petrenko-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=white)](https://www.facebook.com/profile.php?id=100073396981776)
 [![Twitter](https://img.shields.io/badge/Twitter-7eximmortal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=white)](https://twitter.com/7eximmortal)
+[![YouTube](https://img.shields.io/badge/YouTube-7eximmortal-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=white)](https://www.youtube.com/channel/UCj8AHPTwrJts-rtg9ZAJaOg)
+[![Steam](https://img.shields.io/badge/Steam-7eximmortal-000000?style=for-the-badge&logo=steam&logoColor=000000&labelColor=white)](https://steamcommunity.com/id/7eximmortal/)
 
 ### Stats 📊
 
