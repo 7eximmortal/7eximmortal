@@ -1,9 +1,9 @@
 # Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
 
 ### My favorite programming languages 💙
-![Code Lua](https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=lua&logoColor=2C2D72)
-![Code JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Code Node.js](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933)
+- ![Code Lua](https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=lua&logoColor=2C2D72)
+- ![Code JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![Code Node.js](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ### I work with tools, technologies 🔧
 ![Code Lua](https://img.shields.io/badge/Code-Lua-2C2D72?style=flat-square&logo=lua&logoColor=2C2D72&labelColor=white)
