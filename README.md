@@ -7,7 +7,7 @@
 
 ### Spector of work ✅
 ![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua&logoColor=white&labelColor=white)
-![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white&labelColor=white)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=white)
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=flat-square&logo=node.js&logoColor=339933&labelColor=white)
 
 ### Contacts 📖
