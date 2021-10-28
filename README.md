@@ -2,7 +2,7 @@
 
 ## Favorite technologies ❤️
 ![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)
-![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white?logoWidth=40)
 
 ## Spector of work ✅
 ![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua)
