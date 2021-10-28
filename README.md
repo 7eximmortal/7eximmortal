@@ -13,6 +13,7 @@
 ![Code CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=white)
 ![Code Markdown](https://img.shields.io/badge/Code-Markdown-000000?style=flat-square&logo=markdown&logoColor=000000&labelColor=white)
 ![Editor Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC&labelColor=white)
+![Utility Git](https://img.shields.io/badge/Utility-Git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=white)
 
 ### Contacts 📧
 [![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2&labelColor=white)](https://vk.com/7eximmortal)
