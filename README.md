@@ -7,7 +7,7 @@
 - <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> <code>Node.js</code>
 
 ## My spector of work ✅
-https://img.shields.io/badge/Code-Lua-blue
+![Code Lua](https://img.shields.io/badge/Code-Lua-blue)
 
 ## My contacts 📖
 - <img align="top" alt="vk" width="26px" src="https://astro-centre.ru/wp-content/uploads/2021/01/photo.png"/> [7eximmortal](https://vk.com/7eximmortal) 
