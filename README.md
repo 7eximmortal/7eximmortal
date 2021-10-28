@@ -25,6 +25,8 @@
 
 ### Stats 📊
 <table>
+  <tr>ку</tr>
+  <tr>ку</tr>
 </table>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
