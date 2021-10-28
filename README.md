@@ -24,9 +24,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-Vlad_Petrenko-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=white)](https://www.facebook.com/profile.php?id=100073396981776)
 
 ### Stats 📊
-<table>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact)
-</table>
 
 ![7eximmortal Stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&hide=contribs,prs&show_icons=true&theme=tokyonight)
