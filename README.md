@@ -13,7 +13,7 @@
 ### Contacts 📖
 [![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2)](https://vk.com/7eximmortal)
 ![Discord](https://img.shields.io/badge/Discord-7eximmortal--8481-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2)
-[![Facebook](https://img.shields.io/badge/facebook-Vlad_Petrenko-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=100073396981776)
+[![Facebook](https://img.shields.io/badge/facebook-Vlad_Petrenko-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=white)](https://www.facebook.com/profile.php?id=100073396981776)
 
 ### Stats 📊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
