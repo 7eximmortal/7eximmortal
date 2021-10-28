@@ -9,7 +9,8 @@
 ![Code Lua](https://img.shields.io/badge/Code-Lua-2C2D72?style=flat-square&logo=lua&logoColor=2C2D72&labelColor=white)
 ![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=white)
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-339933?style=flat-square&logo=node.js&logoColor=339933&labelColor=white)
-![Code HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=#E34F26&labelColor=white)
+![Code HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=white)
+![Code CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=white)
 
 ### Contacts 📖
 [![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2&labelColor=white)](https://vk.com/7eximmortal)
