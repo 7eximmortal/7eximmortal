@@ -2,7 +2,7 @@
 
 ### Favorite programming languages 👾
 ![Code Lua](https://img.shields.io/badge/-Lua-white?style=for-the-badge&logo=lua&logoColor=2C2D72)
-![Code JavaScript](https://img.shields.io/badge/_в-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Code JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Code Node.js](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ### Working with technologies, tools 🔧
