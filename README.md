@@ -25,8 +25,10 @@
 
 ### Stats 📊
 <table>
-  <tr>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)</td>
-  <tr>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact)</td>
+  <td>
+    <tr>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)</tr>
+    <tr>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact)</tr>
+  </td>
 </table>
 
 ![7eximmortal Stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&hide=contribs,prs&show_icons=true&theme=tokyonight)
