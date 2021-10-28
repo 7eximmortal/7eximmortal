@@ -25,11 +25,8 @@
 
 ### Stats 📊
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Tables |
+| ------ |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
 
