@@ -1,12 +1,10 @@
 # Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
 
-## My favorite programming languages ❤️
+## Favorite technologies ❤️
+![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=for-the-badge&logo=lua)
 
-- <img align="top" alt="Lua" width="26px" src="https://www.nablawiki.ru/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png"/> <code>Lua</code>
-- <img align="top" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <code>JavaScript</code>
-- <img align="top" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon.ico"/> <code>Node.js</code>
 
-## My spector of work ✅
+## Spector of work ✅
 ![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua)
 
 ## My contacts 📖
