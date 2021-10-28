@@ -25,7 +25,7 @@
 
 ### Stats 📊
 <table>
-  <td>ку</td>
+  <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact)</td>
   <td>ку</td>
 </table>
 
