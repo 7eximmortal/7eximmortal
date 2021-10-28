@@ -24,8 +24,12 @@
 [![Facebook](https://img.shields.io/badge/facebook-Vlad_Petrenko-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=white)](https://www.facebook.com/profile.php?id=100073396981776)
 
 ### Stats 📊
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact) | Are           |
-| ------------- |---------------|
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
 
