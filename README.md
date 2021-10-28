@@ -6,7 +6,9 @@
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Spector of work ✅
-![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua)
+![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua&logoColor=white)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
+![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js&logoColor=white)
 
 ## Contacts 📖
 - <img align="top" alt="vk" width="26px" src="https://astro-centre.ru/wp-content/uploads/2021/01/photo.png"/> [7eximmortal](https://vk.com/7eximmortal) 
