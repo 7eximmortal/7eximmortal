@@ -16,6 +16,7 @@
 - <img align="top" alt="twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> [7eximmortal](https://twitter.com/7eximmortal)
 - <img align="top" alt="discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-logo.png"/> 7eximmortal#6666
 
+### Stats 📊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact)
 
