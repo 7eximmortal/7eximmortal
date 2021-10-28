@@ -12,6 +12,7 @@
 
 ### Contacts 📖
 [![VK](https://img.shields.io/badge/-VK-maroon?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/7eximmortal)
+![Discord](https://img.shields.io/badge/Discord-7eximmortal#8481-maroon?style=for-the-badge&logo=discord&logoColor=white)]
 
 ### Stats 📊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
