@@ -11,10 +11,7 @@
 ![Code Node.js](https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js&logoColor=white)
 
 ### Contacts 📖
-- <img align="top" alt="vk" width="26px" src="https://astro-centre.ru/wp-content/uploads/2021/01/photo.png"/> [7eximmortal](https://vk.com/7eximmortal) 
-- <img align="top" alt="facebook" width="26px" src="https://img.icons8.com/color/96/000000/facebook-new.png"/> [Vlad Petrenko](https://www.facebook.com/profile.php?id=100073396981776)
-- <img align="top" alt="twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> [7eximmortal](https://twitter.com/7eximmortal)
-- <img align="top" alt="discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-logo.png"/> 7eximmortal#6666
+[![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua&logoColor=white)](https://vk.com/7eximmortal)
 
 ### Stats 📊
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7eximmortal&repo=useful-links-for-developers&show_owner=true)](https://github.com/7eximmortal/useful-links-for-developers)
