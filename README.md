@@ -1,8 +1,8 @@
 # Hello my friend! <img src="https://emoji.discord.st/emojis/03138d04-37f4-449d-8c4c-12b266b24f34.gif" width="28px" alt="<3">
 
 ## Favorite technologies ❤️
-![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=for-the-badge&logo=lua&logoColor=blue)
-![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript)
+![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Spector of work ✅
 ![Code Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua)
