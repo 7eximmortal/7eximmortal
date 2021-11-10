@@ -19,6 +19,9 @@
 ![Framework Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=7952B3&labelColor=white)
 ![Utility FileZilla](https://img.shields.io/badge/Utility-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=BF0000&labelColor=white)
 ![Utility Microsoft Access](https://img.shields.io/badge/Utility-Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=A4373A&labelColor=white)
+![Utility Microsoft Word](https://img.shields.io/badge/Utility-Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=2B579A&labelColor=white)
+![Utility Microsoft Exel](https://img.shields.io/badge/Utility-Microsoft_Exel-217346?style=flat-square&logo=microsoft-exel&logoColor=217346&labelColor=white)
+![Utility Microsoft PowerPoint](https://img.shields.io/badge/Utility-Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=B7472A&labelColor=white)
 
 ### Contacts 📧
 [![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2&labelColor=white)](https://vk.com/7eximmortal)
