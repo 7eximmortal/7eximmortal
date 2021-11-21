@@ -23,18 +23,6 @@
 ![Utility Microsoft Excel](https://img.shields.io/badge/Utility-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=217346&labelColor=white)
 ![Utility Microsoft PowerPoint](https://img.shields.io/badge/Utility-Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=B7472A&labelColor=white)
 
-### Contacts 📧
-[![VK](https://img.shields.io/badge/VK-7eximmortal-4680C2?style=for-the-badge&logo=vk&logoColor=4680C2&labelColor=white)](https://vk.com/7eximmortal)
-![Discord](https://img.shields.io/badge/Discord-7eximmortal--8481-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=white)
-[![Facebook](https://img.shields.io/badge/Facebook-Vlad_Petrenko-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=white)](https://www.facebook.com/profile.php?id=100073396981776)
-[![Twitter](https://img.shields.io/badge/Twitter-7eximmortal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=white)](https://twitter.com/7eximmortal)
-[![YouTube](https://img.shields.io/badge/YouTube-7eximmortal-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=white)](https://www.youtube.com/channel/UCj8AHPTwrJts-rtg9ZAJaOg)
-[![Steam](https://img.shields.io/badge/Steam-7eximmortal-000000?style=for-the-badge&logo=steam&logoColor=000000&labelColor=white)](https://steamcommunity.com/id/7eximmortal/)
-[![Spotify](https://img.shields.io/badge/Spotify-7eximmortal-1DB954?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=white)](https://open.spotify.com/user/ocbf829cye5e8nr8h8oren0lb)
-[![Twitch](https://img.shields.io/badge/Twitch-7eximmortal-9146FF?style=for-the-badge&logo=twitch&logoColor=9146FF&labelColor=white)](https://www.twitch.tv/7eximmortal)
-![Xbox Live](https://img.shields.io/badge/Xbox_Live-ex7immortal-107C10?style=for-the-badge&logo=xbox&logoColor=107C10&labelColor=white)
-![Battle.net](https://img.shields.io/badge/Battle.net-ex7immortal--2629-148EFF?style=for-the-badge&logo=battle.net&logoColor=148EFF&labelColor=white)
-
 ### Stats 📊
 
 ![7eximmortal Stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&hide=contribs,prs&show_icons=true&theme=tokyonight) 
