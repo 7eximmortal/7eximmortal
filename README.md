@@ -22,8 +22,3 @@
 ![Utility Microsoft Word](https://img.shields.io/badge/Utility-Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=2B579A&labelColor=white)
 ![Utility Microsoft Excel](https://img.shields.io/badge/Utility-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=217346&labelColor=white)
 ![Utility Microsoft PowerPoint](https://img.shields.io/badge/Utility-Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=B7472A&labelColor=white)
-
-### Stats 📊
-
-![7eximmortal Stats](https://github-readme-stats.vercel.app/api?username=7eximmortal&hide=contribs,prs&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7eximmortal&layout=compact)
